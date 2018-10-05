@@ -1,0 +1,31 @@
+h1 {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color: blue;
+    font-weight: 900;
+    text-align: center;
+}
+h3 {
+    color: red;
+}
+h4 {
+    color: pink;
+    text-align: right;
+}
+h5 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    color: yellow;
+}
+body {
+    background: black;
+}
+#last-line {
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
